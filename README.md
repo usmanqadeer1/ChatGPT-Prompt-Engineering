@@ -1,4 +1,4 @@
-# ChatGPT Prompt Engineering Jupyter Notebooks
+# ChatGPT Prompt Engineering
 
 This repository contains a series of Jupyter notebooks designed to introduce and enhance your skills in ChatGPT prompt engineering. Each notebook covers a specific aspect of prompt engineering, building on the previous ones to help you develop more effective and sophisticated prompts for various use cases.
 
