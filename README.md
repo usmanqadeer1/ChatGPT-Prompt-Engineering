@@ -25,6 +25,6 @@ This repository contains a series of Jupyter notebooks designed to introduce and
 7. **Pizza_Order_Chatbot.ipynb**
     - **Description**: Build a simple pizza order chatbot using ChatGPT. This notebook walks you through creating prompts and structuring interactions to simulate a pizza ordering process.
 
-![Pizza Order Chatbot Layout]("/Pizza_Order_Chatbot/image.png")
+![Pizza Order Chatbot Layout](Pizza_Order_Chatbot/image.png)
 
 
